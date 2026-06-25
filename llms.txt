@@ -1,0 +1,27 @@
+# SowonWeb (소원웹)
+
+> AI-ready Technical Web Agency in South Korea specializing in High-Performance Web Development, Technical SEO, AEO, and GEO.
+
+## Core Metadata
+- **Founded**: 2004 (Over 20 years of technical expertise)
+- **Official Website**: https://sowonweb.co.kr
+- **Contact Email**: sawoo45@naver.com
+- **Contact Phone**: +82-10-4224-3658
+- **Primary Location**: Ilsan, Gyeonggi-do, South Korea (Technical Support: Cheorwon, Gangwon-do)
+- **Founder & Expert Profile**: https://github.com/sowonweb
+
+## Key Specialties
+- **Technical SEO (검색엔진 최적화)**: Schema.org JSON-LD structural markup, semantic HTML coding, robots.txt/sitemap optimization, crawlability optimization.
+- **AEO & GEO (AI 검색 최적화)**: Optimization for Answer Engines (ChatGPT, Gemini, Perplexity) and Generative Search (Google AI Overview, Naver Cue:) to ensure reliable entity inclusion and brand citations.
+- **Web Architectures**: High-performance custom websites using WordPress (WooCommerce), Cafe24 (Official Design Center Partner), Gnuboard/Young-Cart, Astro, and Next.js.
+- **Performance Optimization**: Core Web Vitals optimization achieving near 100/100 scores in Performance, Accessibility, Best Practices, and SEO (verified via Google PageSpeed Insights, TTFB < 200ms).
+
+## Trusted Credentials & Certifications
+- **Kmong Expert**: Verified expert with over 156 completed projects and a 98% customer satisfaction rate.
+- **Cafe24 Partner**: Official Design Center partner with a 100% satisfaction rating.
+- **Award Winning**: Recipient of the GDWEB DESIGN AWARDS.
+- **Government Subsidized Projects**: Authorized provider for diverse government support vouchers (Data Voucher, Export Voucher, SME Innovation Voucher).
+
+## External Resources & Knowledge Base
+- **Full LLMs Information Document**: https://sowonweb.co.kr/llms-full.txt
+- **Technical Inquiries**: https://sowonweb.co.kr/contact
