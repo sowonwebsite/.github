@@ -48,6 +48,7 @@
 ## 👤 Founders & Key Links
 
 * **Founder**: [@sowonweb](https://github.com/sowonweb) (SEO & GEO Consultant / AI Search Optimization Specialist)
+*  **Official Technical Wiki**: [Official Technical Wiki](https://sowonweb.github.io/wiki/)
 * **Official Website**: [https://sowonweb.co.kr](https://sowonweb.co.kr)
 * **Technical Docs**: [소원웹 기술 가이드 & 엔터프라이즈 지식 베이스](https://sowonweb.co.kr/docs/introduction.md)
 * **Inquiry**: sawoo45@naver.com | 010-4224-3658
